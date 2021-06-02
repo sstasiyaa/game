@@ -1,0 +1,45 @@
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.csprojAssemblyReference.cache
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.FormMenu.resources
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.Form_level1.resources
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.Form_level2.resources
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.Form_level3.resources
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.Form_level4.resources
+C:\Users\naste\Desktop\Учеба\Игра\Игрушка\Labirint\Labirint\obj\Debug\Labirint.Form_с.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csprojAssemblyReference.cache
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.FormMenu.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Form_level1.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Form_level2.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Form_level3.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Form_level4.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Form_с.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\naste\OneDrive\Рабочий стол\3 КУРС\Программирование\Игры\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\Alex\Desktop\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\Alex\Desktop\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\Alex\Desktop\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.FormMenu.resources
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.Form_level1.resources
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.Form_level2.resources
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.Form_level3.resources
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.Form_level4.resources
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.Form_с.resources
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\Alex\Desktop\Labirint\Labirint\obj\Debug\Labirint.pdb
